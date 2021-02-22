@@ -1,0 +1,19 @@
+function firstName(firstLetterName) {
+ console.log firstLetterName("William");
+}
+function firstName1(firstLetterName1) {
+console.log firstLetterName1("W");
+}
+console.log("The name firstName starts with the letter firstName1); 
+
+
+Function divisibleByTwo(%2){
+ return true;
+ }
+ Function divisibleByTwo(%1){
+ return false;
+ }
+ 
+ var largestNum = 20
+ function largestNum([20, 9, 73, 5, 48])
+ return largestNum = 
